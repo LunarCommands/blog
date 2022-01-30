@@ -1,2 +1,2 @@
 # blog
-Simple blog apllication builded with Django 3.
+Simple blog application built with Django 3.
