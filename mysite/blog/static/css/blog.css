@@ -48,6 +48,52 @@ p.date {
     font-weight: bold;
 }
 
+.bottom-container {
+  text-align: center;
+  background-color: #00ADB5;
+  padding: 50px 0 20px;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #DDDDDD;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.footer-link {
+  color: white;
+
+}
+
+
+.btn {
+  background: #F05454;
+  background-image: -webkit-linear-gradient(top, #F05454, #30475E);
+  background-image: -moz-linear-gradient(top, #F05454, #30475E);
+  background-image: -ms-linear-gradient(top, #F05454, #30475E);
+  background-image: -o-linear-gradient(top, #F05454, #30475E);
+  background-image: linear-gradient(to bottom, #F05454, #30475E);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Kontakt;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 15px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffffff ;
+  size: 150%;
+  text-decoration: none;
+}
+
 /* forms */
 label {
     float: left;
