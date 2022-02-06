@@ -7,8 +7,14 @@ body {
 }
 
 a {
-    color: #00ADB5;
-    text-decoration: none;
+  color: #00ADB5;
+  font-family: Kontakt;
+  text-decoration: none;
+    margin-right: 4px;
+}
+
+a:hover {
+  color: #F05454;
 }
 
 h1 {
@@ -30,7 +36,7 @@ h2 {
 
 #sidebar {
     float: right;
-    width: 30%;
+    width: 35%;
     padding: 10px;
     background: #393E46;
     height: 100%;
@@ -46,6 +52,12 @@ p.date {
 .pagination {
     margin: 40px 0;
     font-weight: bold;
+}
+
+.card {
+    background: #393E46;
+    padding: 10px 0 10px 15px;
+    margin: 5px;
 }
 
 .bottom-container {
@@ -67,7 +79,6 @@ p.date {
 
 .footer-link {
   color: white;
-
 }
 
 
@@ -83,7 +94,7 @@ p.date {
   border-radius: 12px;
   font-family: Kontakt;
   color: #ffffff;
-  font-size: 15px;
+  font-size: 16px;
   padding: 15px 20px 10px 20px;
   text-decoration: none;
 }
