@@ -36,8 +36,9 @@ h2 {
 
 #sidebar {
     float: right;
-    width: 35%;
+    width: 30%;
     padding: 10px;
+    margin: 70px 20px;
     background: #393E46;
     height: 100%;
 }
